@@ -1,0 +1,20 @@
+1.2.3.4 dlied1.qq.com
+1.2.3.4 vmp.qq.com
+1.2.3.4 test.vmp.qq.com
+1.2.3.4 omgmta.qq.com
+1.2.3.4 cs.mbgame.gamesafe.qq.com
+1.2.3.4 tpns.qq.com
+1.2.3.4 mta.qq.com
+1.2.3.4 cdn.wetest.qq.com
+1.2.3.4 pingmid.qq.com
+1.2.3.4 log.tbs.qq.com
+1.2.3.4 mqqad.html5.qq.com
+1.2.3.4 dldir1.qq.com
+1.2.3.4 mdc.html5.qq.com
+1.2.3.4 clientrz2.itop.qq.com
+1.2.3.4 pingmid.qq.com
+1.2.3.4 szmg.qq.com
+1.2.3.4 203.205.142.208
+1.2.3.4 203.205.179.220
+1.2.3.4 203.205.179.210
+
