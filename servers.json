@@ -6,7 +6,8 @@
         "port": 7320,
         "channel": 540248268378996756,
         "image_url": "https://pbs.twimg.com/media/EPoM0D6XkAAipmo.jpg",
-	"custom": "Kết nối: steam://connect/167.114.173.96:7320"
+	"custom": "Kết nối: steam://connect/167.114.173.96:7320",
+	"custom": "167.114.173.96:7320"
     },
     {
         "type": "SourceQuery",
@@ -15,7 +16,8 @@
         "port": 7320,
         "channel": 724146246754762762,
         "image_url": "https://pbs.twimg.com/media/EPoM0D6XkAAipmo.jpg",
-	"custom": "Kết nối: steam://connect/167.114.173.96:7320"
+	"custom": "Kết nối: steam://connect/167.114.173.96:7320",
+	"custom": "167.114.173.96:7320"
     }
 ]
 
